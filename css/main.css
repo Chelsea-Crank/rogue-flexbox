@@ -176,9 +176,10 @@ footer {
 
 footer span {
 	font-family: 'Galada', cursive;
+	font-weight: 100;
 	text-transform: lowercase;
 	color: #77a466;
-	font-size: .875em;
+	font-size: 1.375em;
 }
 
 /*Tablet*/
